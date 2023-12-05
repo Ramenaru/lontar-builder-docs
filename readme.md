@@ -1,4 +1,4 @@
-# How to Develop 📝lontar-doc 
+# How to Develop 📝lontar-builder-docs
 ## Dependency
 - Zola 
 - SCSS
@@ -6,7 +6,7 @@
 
 ## Clone the project 
 ### Using github
-`git clone https://lontarlab.com/lontar-docs`
+`git clone https://ramenaru/lontar-builder-docs`
 
 ## Install Zola
 ### Install with arch linux (recommend)
