@@ -1,7 +1,7 @@
 # The URL the site will be built for
 
-base_url = "https://lontar-doc.netlify.com"
-title = "lontar Doc"
+base_url = "https://lontar-builder.vercel.app"
+title = "lontar Builder Doc"
 description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
 
 # The site theme to use.
@@ -136,11 +136,10 @@ url_id = "id/privacy-policy/"
 weight = 10
 
 
-[languages]
-  [languages.id]
-  title = "lontar Doc"
-  generate_feed = true
-  build_search_index = false
-  taxonomies = [
-    { name = "authors" },
-  ]
+[languages.id]
+title="lontar Doc"
+generate_feed = true
+build_search_index = false
+taxonomies = [
+    {name = "authors"},
+]
