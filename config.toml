@@ -136,10 +136,11 @@ url_id = "id/privacy-policy/"
 weight = 10
 
 
-[languages.id]
-title="lontar Doc"
-generate_feed = true
-build_search_index = false
-taxonomies = [
-    {name = "authors"},
-]
+[languages]
+  [languages.id]
+  title = "lontar Doc"
+  generate_feed = true
+  build_search_index = false
+  taxonomies = [
+    { name = "authors" },
+  ]
