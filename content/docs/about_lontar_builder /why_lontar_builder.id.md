@@ -9,6 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 +++
+---
 
 ## Easy for Non-Coders
 Lontar Builder makes website creation accessible for people without coding knowledge. By converting markdown to HTML, it removes the need to understand technical programming languages.

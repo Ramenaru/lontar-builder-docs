@@ -9,6 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 +++
+---
 
 Welcome to Lontar Builder, the latest innovation from Lontar Lab that changes the way you build websites. With a spirit of creativity and dedication to empowering every individual, Lontar Builder comes as a revolutionary solution to simplify the website creation process, regardless of technical skill level.
 

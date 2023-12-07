@@ -9,6 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 +++
+---
 
 Selamat datang di Lontar Builder, sebuah inovasi terbaru dari Lontar Lab yang mengubah cara Anda membuat situs web. Dengan semangat kreativitas dan dedikasi untuk memberdayakan setiap individu, Lontar Builder hadir sebagai solusi revolusioner untuk mempermudah proses pembuatan situs web, tanpa memandang tingkat keahlian teknis.
 
