@@ -22,7 +22,7 @@ Previously you need to know that in Lontar Builder for the navbar section there 
 [Click here to see Navbar template 1](https://imgur.com/a/IxdnybL)
 
 The image above is an example of the Navbar 1 template, to create it you can use the command below:
-
+```markdown
 Title: NAVBAR_1
 navbar(1)_section_content:
 navbar(1)_section_title(1) - "Company Logo"
@@ -32,9 +32,8 @@ navbar(1)_section_text(3) - "Service"
 navbar(1)_section_text(4) - "information"
 navbar(1)_section_text(5) - "Partner"
 navbar(1)_section_text(6) - "Contact"
-
 -END
-
+```
 Explanation of the above Format Types:
 
 1. *Title: Navbar_1*: This is the format for creating a navbar section using template 1.
