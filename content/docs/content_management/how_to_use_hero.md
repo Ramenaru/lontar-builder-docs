@@ -33,11 +33,11 @@ hero(1)_section_text(2) - "More Information"
 ```
 Explanation of the above Format Types:
 
-1. *Title: Hero_1*: This is the format for creating a hero section using template 1.
-2. *title_section_content*: Indicates the beginning of the section content.
-3. *hero(1)_section_title(1)*: This is used to enter the title name, whether it will be named Hero or something else in this section.
-4. *hero(1)_section_text(1&2)*: This is the text that will fill the hero sections
-5. *-END*: Marks the end of the hero section, this must be entered in every section then don't forget to enter afterward
+1. **Title: Hero_1**: This is the format for creating a hero section using template 1.
+2. **title_section_content**: Indicates the beginning of the section content.
+3. **hero(1)_section_title(1)**: This is used to enter the title name, whether it will be named Hero or something else in this section.
+4. **hero(1)_section_text(1&2)**: This is the text that will fill the hero sections
+5. **-END**: Marks the end of the hero section, this must be entered in every section then don't forget to enter afterward
 
 ### HERO_2
 
@@ -56,7 +56,7 @@ hero(2)_section_text(2) - "More Information""
 Explanation of Type Format above:
 
 1. **Title: Hero_2**: This is the format for creating a hero section using template 2.
-2. *title_section_content**: Indicates the beginning of the section content.
+2. **title_section_content**: Indicates the beginning of the section content.
 3. **hero(2)_section_title(1)**: This is used to enter the title name, whether it will be named Hero or something else in this section.
 4. **hero(2)_section_text(1&2)**: This is the text that will fill the hero sections
 5. **-END**: Marks the end of the hero section, this must be entered in every section then don't forget to enter afterward
