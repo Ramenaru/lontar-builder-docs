@@ -19,7 +19,7 @@ Sebelumnya perlu anda ketahui bahwa di Lontar Builder untuk bagian Tentang kami 
 
 ### ABOUT_1
 
-[Klik disini untuk melihat template Tentang kami 1](https://i.imgur.com/0cuOul4.png)
+<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fabout_1.png?alt=media&token=ea626015-f30d-4e22-a0c6-56d65bf831c6" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Tentang kami 1, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown
@@ -43,7 +43,7 @@ Penjelasan Tipe Format di atas:
 
 ### ABOUT_2
 
-[Klik disini untuk melihat template Tentang kami 2](https://i.imgur.com/GKS42IT.png)
+<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fabout_2.png?alt=media&token=9c9bebd2-90f2-4d18-a338-ca5f1de48f92" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Tentang kami 2, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown
@@ -65,7 +65,7 @@ Penjelasan Tipe Format di atas:
 
 ### ABOUT_3
 
-[Klik disini untuk melihat template Tentang kami 3](https://i.imgur.com/K1ZLhU4.png)
+<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fabout_3.png?alt=media&token=6aadad68-9181-43c5-9499-3883dcedcb0b" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Tentang kami 3, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown
@@ -89,7 +89,7 @@ Penjelasan Tipe Format di atas:
 
 ### ABOUT_4
 
-[Klik disini untuk melihat template Tentang kami 4](https://i.imgur.com/GVC68NN.png)
+<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fabout_4.png?alt=media&token=6d1da786-08ae-4262-a968-d6d5f8aba2fd" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Tentang kami 4, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown

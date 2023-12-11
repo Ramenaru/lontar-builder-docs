@@ -19,7 +19,7 @@ Sebelumnya perlu anda ketahui bahwa di Lontar Builder untuk bagian navbar ada be
 
 ### NAVBAR_1
 
-[Klik disini untuk melihat template Navbar 1](https://imgur.com/a/IxdnybL)
+<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fnavbar_1.png?alt=media&token=d801b204-50e6-469d-af78-f083813fb813" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Navbar 1, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown
@@ -44,7 +44,7 @@ Penjelasan Tipe Format di atas:
 
 ### NAVBAR_2
 
-[Klik disini untuk melihat template Navbar 2](https://imgur.com/EiR13qP)
+<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fnavbar_2.png?alt=media&token=ace41379-af17-4e0d-bc5c-6e54a1e942c9" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Navbar 2, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown
@@ -69,7 +69,7 @@ Penjelasan Tipe Format di atas:
 
 ### NAVBAR_3
 
-[Klik disini untuk melihat template Navbar 3](https://imgur.com/YA6ezUZ)
+<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fnavbar_3.png?alt=media&token=b2577187-6be7-4041-90a2-5bacfbafabef" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Navbar 3, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown
@@ -94,7 +94,7 @@ Penjelasan Tipe Format di atas:
 
 ### NAVBAR_4
 
-[Klik disini untuk melihat template Navbar 4](https://imgur.com/nQ6IPzv)
+<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fnavbar_4.png?alt=media&token=1b5bad24-2967-44e9-a13a-c9ca7824349a" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Navbar 4, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown
