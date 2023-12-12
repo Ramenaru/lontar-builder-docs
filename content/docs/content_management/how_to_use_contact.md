@@ -108,8 +108,7 @@ Explanation of the Format Type above:
 
 The image above is an example of the Contact 4 template, to create it you can use the command below:
 
-```
-markdown
+```markdown
 Copy code
 Title: CONTACT_4
 contact(4)_section_content:
