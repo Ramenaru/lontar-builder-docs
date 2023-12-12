@@ -39,10 +39,10 @@ contact(1)_section_text(6) - "+123 456 789"
 
 Penjelasan dari Tipe Format di atas:
 
-1. **Judul: Kontak_1**: Ini adalah format untuk membuat bagian kontak menggunakan templat 1.
-2. **judul_bagian_isi**: Menunjukkan awal konten bagian.
-3. 3. **kontak(1)_judul_seksi(1)**: Ini digunakan untuk memasukkan nama judul, apakah akan diberi nama Kontak atau nama lain di bagian ini.
-4, **contact(1)_section_text(1-6)**: Ini adalah teks yang akan mengisi bagian kontak.
+1. **Title: Contact_1**: Ini adalah format untuk membuat bagian kontak menggunakan templat 1.
+2. **title_section_content**: Menunjukkan awal konten bagian.
+3. **contact(1)_section_title(1)**: Ini digunakan untuk memasukkan nama judul, apakah akan diberi nama Kontak atau nama lain di bagian ini.
+4. **contact(1)_section_text(1-6)**: Ini adalah teks yang akan mengisi bagian kontak.
 5. **-END**: Menandai akhir dari bagian kontak, ini harus dimasukkan di setiap bagian kemudian jangan lupa untuk memasukkan setelahnya.
 
 ### KONTAK_2
@@ -67,27 +67,38 @@ contact(2)_section_text(6) - "+123 456 789"
 
 Penjelasan dari Tipe Format di atas:
 
-1. **Judul: Kontak_2**: Ini adalah format untuk membuat bagian kontak menggunakan templat 2.
-2. **judul_bagian_isi**: Menunjukkan awal konten bagian.
-3. 3. **kontak(2)_judul_seksi(1)**: Ini digunakan untuk memasukkan nama judul, apakah akan diberi nama Kontak atau nama lain di bagian ini.
+1. **Title: Contact_2**: Ini adalah format untuk membuat bagian kontak menggunakan templat 2.
+2. **title_section_content**: Menunjukkan awal konten bagian.
+3. **contact(2)_section_title(1)**: Ini digunakan untuk memasukkan nama judul, apakah akan diberi nama Kontak atau nama lain di bagian ini.
 4. **contact(2)_section_text(1-6)**: Ini adalah teks yang akan mengisi bagian kontak.
-5. **-END**: Menandai akhir dari bagian kontak, ini harus dimasukkan di setiap bagian lalu jangan lupa untuk memasukkan setelahnya.contact(3)_section_title(1) - "KONTAK KAMI"
-contact(3)_section_text(1) - "Pertanyaan Umum"
-contact(3)_section_text(2) - "Untuk pertanyaan dan informasi umum"
+5. **-END**: Menandai akhir dari bagian kontak, ini harus dimasukkan di setiap bagian lalu jangan lupa untuk memasukkan setelahnya.
+
+### KONTAK_3
+
+[Klik di sini untuk melihat template Kontak 1] (https://imgur.com/trQ6SXD)
+
+Gambar di atas adalah contoh template Contact 3, untuk membuatnya Anda dapat menggunakan perintah di bawah ini:
+
+```markdown
+Title: CONTACT_3
+contact(3)_section_content:
+contact(3)_section_title(1) - "OUR CONTACT"
+contact(3)_section_text(1) - "General Inquiries"
+contact(3)_section_text(2) - "For general questions and information"
 contact(3)_section_text(3) - "Email: info@yourcompany.com"
-contact(3)_section_text(4) - "Telepon: +1 (123) 456-7890"
-contact(3)_section_text(5) - "Peluang Kemitraan"
-contact(3)_section_text(6) - "Tertarik untuk menjadi mitra kami?"
+contact(3)_section_text(4) - "Phone: +1 (123) 456-7890"
+contact(3)_section_text(5) - "Partnership Opportunities"
+contact(3)_section_text(6) - "Interested in becoming our partner?"
 contact(3)_section_text(7) - "Email: partnerships@yourcompany.com"
-contact(3)_section_text(8) - "Telepon: +1 (234) 567-8901"
+contact(3)_section_text(8) - "Phone: +1 (234) 567-8901"
 -END
 ```
 
 Penjelasan mengenai Tipe Format di atas:
 
-1. **Judul: Kontak_3**: Ini adalah format untuk membuat bagian kontak menggunakan templat 3.
-2. **judul_bagian_isi**: Menunjukkan awal konten bagian.
-3. 3. **kontak(3)_judul_seksi(1)**: Ini digunakan untuk memasukkan nama judul, apakah akan diberi nama Kontak atau nama lain di bagian ini.
+1. **Title: Contact_3**: Ini adalah format untuk membuat bagian kontak menggunakan templat 3.
+2. **title_section_content**: Menunjukkan awal konten bagian.
+3. **contact(3)_section_title(1)**: Ini digunakan untuk memasukkan nama judul, apakah akan diberi nama Kontak atau nama lain di bagian ini.
 4. **contact(3)_section_text(1-8)**: Ini adalah teks yang akan mengisi bagian kontak.
 5. **-END**: Menandai akhir dari bagian kontak, ini harus dimasukkan di setiap bagian kemudian jangan lupa untuk memasukkan setelahnya.
 
@@ -98,21 +109,20 @@ Penjelasan mengenai Tipe Format di atas:
 
 Gambar di atas adalah contoh dari template Contact 4, untuk membuatnya Anda dapat menggunakan perintah di bawah ini:
 
-```
-penurunan harga
-Salin kode
-Judul: CONTACT_4
-kontak(4)_bagian_konten:
-contact(4)_section_title(1) - "Terhubung dengan Kami"
-contact(4)_section_text(1) - "Siap untuk memulai petualangan Anda berikutnya bersama kami? Hubungi kami sekarang!"
-contact(4)_section_text(2) - "Hubungi Sekarang"
+```markdown
+Copy code
+Title: CONTACT_4
+contact(4)_section_content:
+contact(4)_section_title(1) - "Connect with Us"
+contact(4)_section_text(1) - "Ready to start your next adventure with us? Contact us now!"
+contact(4)_section_text(2) - "Contact Now"
 -END
 ```
 
 Penjelasan Tipe Format di atas:
 
-1. 2. **Judul**: Contact_4: Ini adalah format untuk membuat bagian kontak menggunakan templat 4.
-2. **judul_bagian_isi**: Menunjukkan awal konten bagian.
-3. 3. **kontak(4)_judul_bagian(1)**: Ini digunakan untuk memasukkan nama judul, apakah akan diberi nama Kontak atau nama lain di bagian ini.
-4. **contact(4)_section_text(1-3)**: Ini adalah teks yang akan mengisi bagian kontak.
+1. **Title: Contact_4**: Ini adalah format untuk membuat bagian kontak menggunakan templat 4.
+2. **title_section_content**: Menunjukkan awal konten bagian.
+3. **contact(4)_section_title(1)**: Ini digunakan untuk memasukkan 4.nama judul, apakah akan diberi nama Kontak atau nama lain dibagian ini.
+4. **contact(4)_section_text(1-2)**: Ini adalah teks yang akan mengisi bagian kontak.
 5. **-END**: Menandai akhir dari bagian kontak, ini harus dimasukkan di setiap bagian kemudian jangan lupa untuk memasukkan setelahnya.

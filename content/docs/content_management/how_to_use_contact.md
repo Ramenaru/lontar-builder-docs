@@ -120,8 +120,8 @@ contact(4)_section_text(2) - "Contact Now"
 
 Explanation of the Format Type above:
 
-1. **Title**: Contact_4: This is the format for creating a contact section using template 4.
+1. **Title: Contact_4**: This is the format for creating a contact section using template 4.
 2. **title_section_content**: Indicates the beginning of the section content.
 3. **contact(4)_section_title(1)**: This is used to enter the title name, whether it will be named Contact or something else in this section.
-4. **contact(4)_section_text(1-3)**: This is the text that will fill the contact sections.
+4. **contact(4)_section_text(1-2)**: This is the text that will fill the contact sections.
 5. **-END**: Marks the end of the contact section, this must be entered in every section then don't forget to enter afterward.

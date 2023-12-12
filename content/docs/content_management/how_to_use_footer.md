@@ -22,6 +22,7 @@ Previously you need to know that in Lontar Builder for the footer section there 
 [Click here to see Footer template 1](https://imgur.com/trQ6SXD)
 
 The image above is an example of the Footer 1 template, to create it you can use the command below:
+
 ```markdown
 Title: FOOTER_1
 footer(1)_section_content:
@@ -32,9 +33,9 @@ footer(1)_section_text(3) - "Email: info@example.com"
 footer(1)_section_text(4) - "Facebook"
 footer(1)_section_text(5) - "twitter"
 footer(1)_section_text(6) - "Instagram"
-
 -END
 ```
+
 Explanation of the Format Type above:
 
 1. **Title: Footer_1**: This is the format for creating a footer section using template 1.
@@ -48,6 +49,7 @@ Explanation of the Format Type above:
 [Click here to see Footer template 2](https://imgur.com/trQ6SXD)
 
 The image above is an example of the Footer 2 template, to create it you can use the command below:
+
 ```markdown
 Title: FOOTER_2
 footer(2)_section_content:
@@ -63,6 +65,7 @@ footer(2)_section_text(8) - "Twitter"
 footer(2)_section_text(9) - "Instagram"
 -END
 ```
+
 Explanation of the Format Type above:
 
 1. **Title: Footer_2**: This is the format for creating a footer section using template 1.
@@ -76,6 +79,7 @@ Explanation of the Format Type above:
 [Click here to see Footer template 3](https://imgur.com/trQ6SXD)
 
 The image above is an example of the Footer 3 template, to create it you can use the command below:
+
 ```markdown
 Title: FOOTER_3
 footer(3)_section_content:
@@ -89,13 +93,14 @@ footer(3)_section_image(1) - "https://imgur.com/1bJQs4i"
 footer(3)_section_image(2) - "https://imgur.com/1bJQs4i"
 -END
 ```
+
 Explanation of the Format Type above:
 
 1. **Title: Footer_3**: This is the format for creating a footer section using template 3.
 2. **title_section_content**: Indicates the beginning of the section content.
 3. **footer(3)_section_title(1)**: This is used to enter the title name, whether it will be named Footer or something else in this section.
 4. **footer(3)_section_text(1-5)**: This is the text that will fill the footer sections.
-5. **footer(4)_section_image(1&2)**: This is used to enter the image url in the footer section. If you have images stored on your local computer, you can use image sharing services such as [imgur](https://imgur.com/), [imgbb](https://id.imgbb.com/), and others .
+5. **footer(3)_section_image(1&2)**: This is used to enter the image url in the footer section. If you have images stored on your local computer, you can use image sharing services such as [imgur](https://imgur.com/), [imgbb](https://id.imgbb.com/), and others .
 6. **-END**: Marks the end of the footer section, this must be entered in every section then don't forget to enter afterward.
 
 ### FOOTER_4
@@ -103,6 +108,7 @@ Explanation of the Format Type above:
 [Click here to see Footer template 4](https://imgur.com/trQ6SXD)
 
 The image above is an example of the Footer 4 template, to create it you can use the command below:
+
 ```markdown
 Title: FOOTER_4
 footer(4)_section_content:
