@@ -19,7 +19,7 @@ Previously you need to know that in Lontar Builder for the navbar section there 
 
 ### NAVBAR_1
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fnavbar_1.png?alt=media&token=d801b204-50e6-469d-af78-f083813fb813" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../navbar_1.png" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Navbar 1 template, to create it you can use the command below:
 ```markdown
@@ -44,7 +44,7 @@ Explanation of the above Format Types:
 
 ### NAVBAR_2
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fnavbar_2.png?alt=media&token=ace41379-af17-4e0d-bc5c-6e54a1e942c9" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../navbar_2.png" alt="Preview template 2" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of a Navbar 2 template, to create it you can use the command below:
 ```markdown
@@ -69,7 +69,7 @@ Explanation of Type Format above:
 
 ### NAVBAR_3
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fnavbar_3.png?alt=media&token=b2577187-6be7-4041-90a2-5bacfbafabef" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../navbar_3.png" alt="Preview template 3" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of a Navbar 3 template, to create it you can use the command below:
 ```markdown
@@ -94,7 +94,7 @@ Explanation of Type Format above:
 
 ### NAVBAR_4
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fnavbar_4.png?alt=media&token=1b5bad24-2967-44e9-a13a-c9ca7824349a" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../navbar_4.png" alt="Preview template 4" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of a Navbar 4 template, to create it you can use the command below:
 ```markdown

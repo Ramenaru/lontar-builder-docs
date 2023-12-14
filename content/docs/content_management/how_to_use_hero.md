@@ -19,7 +19,7 @@ Previously you need to know that in Lontar Builder for the hero section there ar
 
 ### HERO_1
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fhero_1.png?alt=media&token=afe9bb3b-08c2-4a8c-9d86-bde5e0c6f59a" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../hero_1.png" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Hero 1 template, to create it you can use the command below:
 ```markdown
@@ -41,7 +41,7 @@ Explanation of the above Format Types:
 
 ### HERO_2
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fhero_2.png?alt=media&token=ffeec21f-4167-4b0f-8155-1f88e34ed174" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../hero_2.png" alt="Preview template 2" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of a Hero 2 template, to create it you can use the command below:
 ```markdown
@@ -63,7 +63,7 @@ Explanation of Type Format above:
 
 ### HERO_3
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fhero_3.png?alt=media&token=11e7b48f-9634-430f-80b6-4842a0a25f55" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../hero_3.png" alt="Preview template 3" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of a Hero 3 template, to create it you can use the command below:
 ```markdown
@@ -85,7 +85,7 @@ Explanation of Type Format above:
 
 ### HERO_4
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fhero_4.png?alt=media&token=3837e255-8da8-45ac-9a9d-3626c0c13e44" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../hero_4.png" alt="Preview template 4" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of a Hero 4 template, to create it you can use the command below:
 ```markdown

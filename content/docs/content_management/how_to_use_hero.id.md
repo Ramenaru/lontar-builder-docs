@@ -19,7 +19,7 @@ Sebelumnya perlu anda ketahui bahwa di Lontar Builder untuk bagian hero ada bebe
 
 ### HERO_1
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fhero_1.png?alt=media&token=afe9bb3b-08c2-4a8c-9d86-bde5e0c6f59a" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../hero_1.png" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Hero 1, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown
@@ -41,7 +41,7 @@ Penjelasan Tipe Format di atas:
 
 ### HERO_2
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fhero_2.png?alt=media&token=ffeec21f-4167-4b0f-8155-1f88e34ed174" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../hero_4.png" alt="Preview template 4" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Hero 2, untuk membuat itu dapat menggunakan perintah dibawah ini:
 ```markdown

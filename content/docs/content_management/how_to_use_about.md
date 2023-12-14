@@ -19,7 +19,7 @@ First of all, you need to know that in Lontar Builder, for the About Us section,
 
 ### ABOUT_1
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fabout_1.png?alt=media&token=ea626015-f30d-4e22-a0c6-56d65bf831c6" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../about_1.png" alt="Preview about 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the About Us 1 template, to create it you can use the command below:
 ```markdown
@@ -43,7 +43,7 @@ Explanation of the Format Type above:
 
 ### ABOUT_2
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fabout_2.png?alt=media&token=9c9bebd2-90f2-4d18-a338-ca5f1de48f92" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../about_2.png" alt="Preview about 2" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the About Us 2 template, to create it you can use the command below:
 ```markdown
@@ -65,7 +65,7 @@ Explanation of the Format Type above:
 
 ### ABOUT_3
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fabout_3.png?alt=media&token=6aadad68-9181-43c5-9499-3883dcedcb0b" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../about_3.png" alt="Preview about 3" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the About Us 3 template, to create it you can use the command below:
 ```markdown
@@ -89,7 +89,7 @@ Explanation of the Format Type above:
 
 ### ABOUT_4
 
-<img src="https://firebasestorage.googleapis.com/v0/b/latihanfirebase-3ed3a.appspot.com/o/lontar-docs-images%2Fabout_4.png?alt=media&token=6d1da786-08ae-4262-a968-d6d5f8aba2fd" alt="Preview template 1" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../about_4.png" alt="Preview about 4" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the About Us 4 template, to create it you can use the command below:
 ```markdown
