@@ -19,7 +19,7 @@ Previously you need to know that in Lontar Builder for the contact section there
 
 ### CONTACT_1
 
-[Click here to see Contact template 1](https://imgur.com/trQ6SXD)
+<img src="../contact1.png" alt="Preview Contact 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Contact 1 template, to create it you can use the command below:
 
@@ -46,7 +46,7 @@ Explanation of the Format Type above:
 
 ### CONTACT_2
 
-[Click here to see Contact template 1](https://imgur.com/trQ6SXD)
+<img src="../contact2.png" alt="Preview Contact 2" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Contact 2 template, to create it you can use the command below:
 
@@ -74,7 +74,7 @@ Explanation of the Format Type above:
 
 ### CONTACT_3
 
-[Click here to see Contact template 1](https://imgur.com/trQ6SXD)
+<img src="../contact3.png" alt="Preview Contact 3" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Contact 3 template, to create it you can use the command below:
 
@@ -104,7 +104,7 @@ Explanation of the Format Type above:
 
 ### CONTACT_4
 
-[Click here to see Contact template 1](https://imgur.com/trQ6SXD)
+<img src="../contact4.png" alt="Preview Contact 4" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Contact 4 template, to create it you can use the command below:
 

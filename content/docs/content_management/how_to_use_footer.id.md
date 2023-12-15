@@ -19,7 +19,7 @@ Sebelumnya perlu Anda ketahui bahwa di Lontar Builder untuk bagian footer terdap
 
 ### FOOTER_1
 
-[Klik di sini untuk melihat template Footer 1] (https://imgur.com/trQ6SXD)
+<img src="../footer1.png" alt="Preview Footer 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Footer 1, untuk membuatnya Anda dapat menggunakan perintah di bawah ini:
 
@@ -46,7 +46,7 @@ Penjelasan tentang Tipe Format di atas:
 
 ### FOOTER_2
 
-[Klik di sini untuk melihat template Footer 2] (https://imgur.com/trQ6SXD)
+<img src="../footer2.png" alt="Preview Footer 2" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Footer 2, untuk membuatnya Anda dapat menggunakan perintah di bawah ini:
 
@@ -76,7 +76,7 @@ Penjelasan dari Tipe Format di atas:
 
 ### FOOTER_3
 
-[Klik di sini untuk melihat template Footer 3] (https://imgur.com/trQ6SXD)
+<img src="../footer3.png" alt="Preview Footer 3" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Footer 3, untuk membuatnya Anda dapat menggunakan perintah di bawah ini:
 
@@ -105,7 +105,7 @@ Penjelasan tentang Tipe Format di atas:
 
 ### FOOTER_4
 
-[Klik di sini untuk melihat template Footer 4] (https://imgur.com/trQ6SXD)
+<img src="../footer4.png" alt="Preview Footer 4" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Footer 4, untuk membuatnya Anda dapat menggunakan perintah di bawah ini:
 

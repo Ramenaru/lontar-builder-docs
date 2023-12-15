@@ -19,7 +19,7 @@ Previously you need to know that in Lontar Builder for the footer section there 
 
 ### FOOTER_1
 
-[Click here to see Footer template 1](https://imgur.com/trQ6SXD)
+<img src="../footer1.png" alt="Preview Footer 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Footer 1 template, to create it you can use the command below:
 
@@ -46,7 +46,7 @@ Explanation of the Format Type above:
 
 ### FOOTER_2
 
-[Click here to see Footer template 2](https://imgur.com/trQ6SXD)
+<img src="../footer2.png" alt="Preview Footer 2" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Footer 2 template, to create it you can use the command below:
 
@@ -76,7 +76,7 @@ Explanation of the Format Type above:
 
 ### FOOTER_3
 
-[Click here to see Footer template 3](https://imgur.com/trQ6SXD)
+<img src="../footer3.png" alt="Preview Footer 3" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Footer 3 template, to create it you can use the command below:
 
@@ -105,7 +105,7 @@ Explanation of the Format Type above:
 
 ### FOOTER_4
 
-[Click here to see Footer template 4](https://imgur.com/trQ6SXD)
+<img src="../footer4.png" alt="Preview Footer 4" style="max-width: 100%; margin-bottom: 12px"/>
 
 The image above is an example of the Footer 4 template, to create it you can use the command below:
 
