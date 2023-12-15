@@ -14,7 +14,7 @@ weight = 20
 [[extra.menu.main]] 
 name = "Docs" 
 section = "docs" 
-url = "id/docs/ema_web/introduction/" 
+url = "id/docs/getting_started/quick-start" 
 weight = 10
 
 [[extra.list]]
