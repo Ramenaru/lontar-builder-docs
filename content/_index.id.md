@@ -1,9 +1,9 @@
 +++
-title = "lontar Doc"
+title = "Lontar Builder Docs"
 
 # The homepage contents
 [extra]
-lead = '<b>lontar Doc</b> Menguatkan skill teknis melalui Blog dan Dokumentasi teknis'
+lead = '<b>Lontar Builder Docs</b> Menguatkan skill teknis melalui Blog dan Dokumentasi teknis'
 
 [[extra.menu.main]]
 name = "Blog"
@@ -18,24 +18,20 @@ url = "id/docs/getting_started/quick-start"
 weight = 10
 
 [[extra.list]]
-title = "Cepat dari pabriknya ⚡️"
-content = 'Sing pasti dapet skor 100 di <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a>. 100% Organic HTML'
+title = "Mudah untuk Non-Coder"
+content = "Lontar Builder memudahkan pembuatan situs web bagi orang-orang yang tidak memiliki pengetahuan tentang pemrograman. Dengan mengonversi markdown menjadi HTML, ini menghilangkan kebutuhan untuk memahami bahasa pemrograman teknis."
 
 [[extra.list]]
-title = "Mendukung Multi Bahasa"
-content = "Setiap halaman dan blog didukung oleh multi bahasa"
+title = "Pengembangan Website Cepat⚡️"
+content = "Didukung oleh teknologi Go yang canggih, Lontar Builder memungkinkan pembangunan dan implementasi situs web dengan cepat. Anda dapat mewujudkan ide menjadi kenyataan dalam sebagian kecil dari waktu pengembangan yang biasanya diperlukan."
 
 
 [[extra.list]]
-title = "Mendukung Multi Penulis"
-content = "Mendukung penulis sebagai taksonomi"
+title = "Kebebasan Kreatif yang Tak Tertandingi"
+content = "Tanpa batasan pada imajinasi dan kreativitas, Lontar Builder memungkinkan Anda membangun situs web yang unik, menarik perhatian, dan memberikan dampak. Wujudkan visi Anda."
 
 [[extra.list]]
-title = "Platform Agnostic"
-content = "Sebenarnya semuanya cuman kumpulan markdown. Pindahan? bungkus markdownya cari tempat baru"
-
-[[extra.list]]
-title = "Deployment Mudah"
-content = "Tinggal push ke main udah deh. Aku meng DevOps 🤓☝️"
+title = "Situs Web Berkualitas Profesional"
+content = "Tanpa perlu coding, Lontar Builder memberdayakan pengguna dengan berbagai tingkat keterampilan untuk membuat situs web yang rapi dan siap dibagikan. Hasilnya sebanding dengan apa yang dapat Anda hasilkan dengan pengembang ahli."
 
 +++
