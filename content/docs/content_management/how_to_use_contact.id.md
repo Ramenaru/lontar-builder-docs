@@ -19,7 +19,7 @@ Sebelumnya perlu Anda ketahui bahwa di Lontar Builder untuk bagian kontak terdap
 
 ### KONTAK_1
 
-<img src="../contact4.png" alt="Preview Contact 4" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../contact1.png" alt="Preview Contact 1" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Kontak 1, untuk membuatnya Anda dapat menggunakan perintah di bawah ini:
 
@@ -75,7 +75,7 @@ Penjelasan dari Tipe Format di atas:
 
 ### KONTAK_3
 
-<img src="../contact4.png" alt="Preview Contact 4" style="max-width: 100%; margin-bottom: 12px"/>
+<img src="../contact3.png" alt="Preview Contact 3" style="max-width: 100%; margin-bottom: 12px"/>
 
 Gambar di atas adalah contoh template Contact 3, untuk membuatnya Anda dapat menggunakan perintah di bawah ini:
 
