@@ -1,5 +1,4 @@
 # The URL the site will be built for
-
 base_url = "https://lontar-doc.netlify.com"
 title = "lontar Doc"
 description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
@@ -36,7 +35,7 @@ include_title = true
 # Whether to include the description of the page/section in the index
 include_description = false
 # Whether to include the rendered content of the page/section in the index
-include_content = true
+include_content = false
 
 [markdown]
 # Whether to do syntax highlighting.
@@ -65,12 +64,11 @@ theme_color = "#fff"
 title_separator = "|"  # set as |, -, _, etc
 title_addition = "Modern Documentation Theme"
 
-
 # Set date format in blog publish metadata
 timeformat = "%B %e, %Y" # e.g. June 14, 2021
 timezone = "America/New_York"
 
-# Edit page on reposity or not
+# Edit page on repository or not
 edit_page = false
 docs_repo = "https://github.com/aaranxu/adidoks"
 repo_branch = "main"
@@ -100,9 +98,9 @@ twitter = "https://twitter.com/aaranxu"
 linked_in = ""
 github = "https://github.com/aaranxu"
 section = "blog" # see config.extra.main~url
+
 ## Sitelinks Search Box
 site_links_search_box = false
-
 
 # Menu items
 [[extra.menu.main]]
@@ -116,7 +114,6 @@ name = "Blog"
 section = "blog"
 url = "/blog/"
 weight = 20
-
 
 [[extra.menu.social]]
 name = "GitHub"
@@ -135,9 +132,8 @@ url = "/privacy-policy/"
 url_id = "id/privacy-policy/"
 weight = 10
 
-
 [languages.id]
-title="lontar Doc"
+title = "lontar Doc"
 generate_feed = true
 build_search_index = false
 taxonomies = [
