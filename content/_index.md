@@ -1,9 +1,9 @@
 +++
-title = "lontar Doc"
+title = "Lontar Builder Docs"
 
 # The homepage contents
 [extra]
-lead = '<b>lontar Doc</b> Empowering Technical Excellence through Engaging Documentation and Blogging'
+lead = '<b>Lontar Builder Docs</b> Empowering Technical Excellence through Engaging Documentation and Blogging'
 
 [[extra.menu.main]]
 name = "Blog"
@@ -14,27 +14,23 @@ weight = 20
 [[extra.menu.main]] 
 name = "Docs" 
 section = "docs" 
-url = "/docs/ema_web/introduction/" 
+url = "docs/getting_started/quick-start" 
 weight = 10
 
 [[extra.list]]
-title = "Fast by default ⚡️"
-content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. 100% Organic HTML'
+title = "Easy for Non-Coders"
+content = "Lontar Builder makes website creation accessible for people without coding knowledge. By converting markdown to HTML, it removes the need to understand technical programming languages."
 
 [[extra.list]]
-title = "Multi Language Support"
-content = "Write Blog and Doc in multiple languages with ease!"
+title = "Fast Website Development⚡️"
+content = "Powered by high-performance Go technology, Lontar Builder enables rapid website building and deployment. You can turn ideas into reality in a fraction of typical development time."
 
 [[extra.list]]
-title = "Multi Author Support"
-content = "First Class Author Taxonomy Support"
+title = "Unmatched Creative Freedom"
+content = "With no limits imposed on imagination and creativity, Lontar Builder lets you build unique, eye-catching websites that make an impact. Bring your vision to life."
 
 [[extra.list]]
-title = "Platform Agnostic"
-content = "Everything is just a big pile of markdown. Want to move? pack up your markdowns and find a new shell"
-
-[[extra.list]]
-title = "Easy Deployment"
-content = "Just push your changes into main and it will be handled. Guys I'm doing DevOps 🤓☝️"
+title = "Professional Quality Websites"
+content = "Without needing to code, Lontar Builder empowers users of all skill levels to create polished, share-ready websites. The output rivals what you could produce with expert developers"
 
 +++
