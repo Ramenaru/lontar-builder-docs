@@ -22,7 +22,7 @@ Welcome to the Quick Start Guide for Lontar Builder! This guide is designed to h
 
 Lontar Builder provides a convenient web-based text editor that allows you to write and edit Format type content directly in your browser. Follow these steps:
 
-1. **Open the Web Text Editor**: Visit [https://lontar-builder.com/editor](https://lontar-builder.com/editor) to open the Lontar Builder web text editor.
+1. **Open the Web Text Editor**: Visit [https://builder.lontarlab.com](https://builder.lontarlab.com) to open the Lontar Builder web text editor.
 
 2. **Start Coding**: Write or edit Format type content as needed. As you type, an instant preview will be displayed alongside.
 
@@ -32,7 +32,7 @@ Lontar Builder provides a convenient web-based text editor that allows you to wr
 
 You can create your first static site without any installation. Follow these steps:
 
-1. **Open the Web Text Editor**: If you haven't already, visit [https://lontar-builder.com/editor](https://lontar-builder.com/editor).
+1. **Open the Web Text Editor**: If you haven't already, visit [https://builder.lontarlab.com](https://builder.lontarlab.com)
 
 2. **Create a New Site**: Write or copy your Format type content in the editor.
 

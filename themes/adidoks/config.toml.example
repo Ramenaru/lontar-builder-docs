@@ -35,7 +35,7 @@ include_title = true
 # Whether to include the description of the page/section in the index
 include_description = false
 # Whether to include the rendered content of the page/section in the index
-include_content = true
+include_content = false
 
 [markdown]
 # Whether to do syntax highlighting.
